@@ -1,1 +1,1 @@
-https://shoppingcomplex.netlify.app/
+https://nftmarketplaceaurora.netlify.app/
